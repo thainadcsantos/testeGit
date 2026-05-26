@@ -1,0 +1,3 @@
+Pra hoje
+crie um sistema no deepseek, um sistema WEB, de marcação de consulta
+OBS.: Solicite a IA para dizer o passo a passo da configuração do desse sistema, crie toda a modelagem de dados, deve haver diagramação, caso de uso, fluxograma, gere um único código executavel
