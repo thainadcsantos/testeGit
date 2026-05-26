@@ -1,4 +1,4 @@
-echo "# testeGit" >> README.md
+echo %date %> README.md
 ::git init
 git add . -v
 git commit -m "first commit"

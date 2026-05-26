@@ -1,5 +1,1 @@
-"# testeGit" 
-"# testeGit" 
-"# testeGit" 
-"# testeGit" 
-"# testeGit" 
+ECHO est  ativado.
