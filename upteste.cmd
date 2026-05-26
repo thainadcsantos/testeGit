@@ -1,6 +1,6 @@
 @echo off
 
-echo %date% > README.md
+echo ultimo salvamento em %date% as %time% > README.md
 ::git init
 git add . -v
 git commit -m "first commit"
