@@ -1,6 +1,6 @@
 @echo off
 
-%date% > README.md
+echo %date% > README.md
 ::git init
 git add . -v
 git commit -m "first commit"
